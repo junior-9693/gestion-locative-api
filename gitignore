@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Symfony
+/.env.local
+/.env.*.local
+/config/jwt/*.pem
+/var/
+/vendor/
+/public/bundles/
+/.phpunit.cache/
+
+# IDE
+.idea/
+.vscode/
